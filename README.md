@@ -6,7 +6,7 @@ This project is a frontend clone of the popular music streaming service Spotify.
 ## What I Have Learned
 In the process of building this Spotify clone, I have learned:
 
-# Tech Stack
+## Tech Stack
 1. Html
 2. Css
 3. Responsive Design(FlexBox, Grids)
